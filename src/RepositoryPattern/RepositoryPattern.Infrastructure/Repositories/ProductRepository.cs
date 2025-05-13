@@ -2,7 +2,7 @@
 using RepositoryPattern.Domain.Abstractions;
 using RepositoryPattern.Domain.Entities;
 using RepositoryPattern.Domain.Repositories;
-using RepositoryPattern.Infrastructure.Data;
+using RepositoryPattern.Infrastructure.Data.Context;
 
 namespace RepositoryPattern.Infrastructure.Repositories;
 

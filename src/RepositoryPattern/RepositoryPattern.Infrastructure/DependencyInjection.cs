@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using RepositoryPattern.Domain.Abstractions;
 using RepositoryPattern.Domain.Repositories;
-using RepositoryPattern.Infrastructure.Data;
+using RepositoryPattern.Infrastructure.Data.Context;
 using RepositoryPattern.Infrastructure.Repositories;
 
 namespace RepositoryPattern.Infrastructure;

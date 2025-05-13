@@ -6,7 +6,7 @@ using RepositoryPattern.Application.UseCases.Products.Create;
 using RepositoryPattern.Application.UseCases.Products.GetById;
 using RepositoryPattern.Domain.Configurations;
 using RepositoryPattern.Infrastructure;
-using RepositoryPattern.Infrastructure.Data;
+using RepositoryPattern.Infrastructure.Data.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
